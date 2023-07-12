@@ -3,6 +3,13 @@ import Link from "next/link";
 const genres = [
   { title: "Comedy", slug: "comedy" },
   { title: "Drama", slug: "drama" },
+  { title: "Action / Adventure", slug: "action-adventure" },
+  { title: "Animation", slug: "animation" },
+  { title: "Classic", slug: "horror" },
+  { title: "Family", slug: "horror" },
+  { title: "Mystery", slug: "horror" },
+  { title: "Sci-fi / Fantasy", slug: "horror" },
+  { title: "Western", slug: "horror" },
   { title: "Horror", slug: "horror" },
 ];
 
